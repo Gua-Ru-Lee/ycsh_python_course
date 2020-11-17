@@ -1,0 +1,11 @@
+a=int(input())
+b=int(input())
+c=int(input())
+d=int(input())
+e=int(input())
+f=int(input())
+x=((-e*c)-(-b*f))/((a*e)-(b*d))
+y=((-d*c)-(-a*f))/((b*d)-(a*e))
+print(x)
+print(y)
+
